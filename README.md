@@ -1,2 +1,6 @@
-# Instagram-loginpage
- Instagram login page in HTML and CSS
+<img src="imagens/logo.png" align="right" width="300">
+
+# Instagram login page made with HMTL and CSS.
+ 
+ ## Page status:
+ * NOT COMPLETE YET
