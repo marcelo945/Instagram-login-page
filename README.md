@@ -1,4 +1,4 @@
-<p align="center"><img src="Imagens/page.png" width="300"></p>
+<img src="Imagens/page.png" align="right" width="300">
 
 # Instagram login page made with HMTL and CSS.
  
